@@ -3,6 +3,9 @@
 
 
 
+![Component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
+
+
 
 
 
