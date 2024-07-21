@@ -1,3 +1,14 @@
+
+![9233841_4120164](https://github.com/user-attachments/assets/6179e909-e580-4e3b-9c16-ffd1784c8773)
+
+
+
+![Component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
