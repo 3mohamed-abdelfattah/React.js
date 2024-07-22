@@ -3,7 +3,7 @@
 
 
 
-![Component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
+[Component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
 
 ![Getting Started React Docs](https://legacy.reactjs.org/docs/getting-started.html)
 ![Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
