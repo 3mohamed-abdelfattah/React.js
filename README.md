@@ -4,13 +4,11 @@
 - [Module 2](#module-2-)
 - [Module 3](#module-3-)
 
-![download](https://github.com/user-attachments/assets/7234935b-bfab-4f16-88d0-a4aa5040032c)
 ![react](https://github.com/user-attachments/assets/d85b64ec-90fb-4df1-b8d9-201a34eb4943)
 
-# Module 1 :
+## Module 1 :
 
-
-## React Components and Where They Live Resources
+### React Components and Where They Live Resources
 
 - [Component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
 - [Getting Started React Docs](https://legacy.reactjs.org/docs/getting-started.html)
@@ -20,7 +18,7 @@
 - [webpack/webpack-dev-server on GitHub](https://github.com/webpack/webpack-dev-server)
 - [Visual Studio Code keyboard shortcuts (Windows)](https://legacy.reactjs.org/docs/getting-started.html)
 
-## Component Use and Styling Resources
+### Component Use and Styling Resources
 
 - [Components and props](https://legacy.reactjs.org/docs/components-and-props.html)
 - [Intoducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
@@ -29,11 +27,11 @@
 
 ---
 
-# Module 2 :
+## Module 2 :
 
 ---
 
-# Module 3 :
+## Module 3 :
 
 
 ---
