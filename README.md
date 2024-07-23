@@ -6,7 +6,7 @@
 
 ![react](https://github.com/user-attachments/assets/d85b64ec-90fb-4df1-b8d9-201a34eb4943)
 
-## Module 1 :
+## Module 1 =>
 
 ### React Components and Where They Live Resources
 
@@ -27,12 +27,11 @@
 
 ---
 
-## Module 2 :
+## Module 2 =>
 
 ---
 
-## Module 3 :
-
+## Module 3 =>
 
 ---
 ![9233841_4120164](https://github.com/user-attachments/assets/6179e909-e580-4e3b-9c16-ffd1784c8773)
