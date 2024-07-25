@@ -1,4 +1,5 @@
 import Heading, { Apples, Bag, Example, Nav, Pears, Promo } from "./ModuleOne";
+import AppTwo from "./ModuleTwo";
 
 const bool = false;
 const str1 = "just";
@@ -36,6 +37,8 @@ function App() {
             <Example2 toggleBoolean={!bool}
                 math={(10 + 20) / 3}
                 str={str1 + ' another ' + 'string'} />
+            <hr style={{ border: "5px solid black" }} />
+            <AppTwo />
         </div>
     );
 };
