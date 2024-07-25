@@ -29,6 +29,13 @@
 
 ## Module 2 =>
 
+- [Handling Events](https://reactjs.org/docs/handling-events.html#gatsby-focus-wrapper)
+- [Supported Events](https://reactjs.org/docs/events.html#supported-events)
+- [SyntheticEvent](https://reactjs.org/docs/events.html#gatsby-focus-wrapper)
+- [How do I pass an event handler to a component?](https://reactjs.org/docs/faq-functions.html#how-do-i-pass-an-event-handler-like-onclick-to-a-component)
+- [JavaScript Expressions as Props](https://reactjs.org/docs/jsx-in-depth.html#javascript-expressions-as-props)
+- [JavaScript Expressions as Children](https://reactjs.org/docs/jsx-in-depth.html#javascript-expressions-as-children)
+
 ---
 
 ## Module 3 =>
