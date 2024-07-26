@@ -58,5 +58,19 @@
 
 ## Module 3 =>
 
+### Linking and Routing
+
+- []()
+- []()
+- []()
+- []()
+  
+### Using Assets in React
+
+- []()
+- []()
+- []()
+- []()
+
 ---
 ![9233841_4120164](https://github.com/user-attachments/assets/6179e909-e580-4e3b-9c16-ffd1784c8773)
