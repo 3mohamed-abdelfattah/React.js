@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ad54df04-ca6a-42cd-9a8c-c15b4a499c13)
+
 ## Table of Contents
 
 - [Module 1](#module-1-)
@@ -60,10 +62,10 @@
 
 ### Linking and Routing
 
-- []()
-- []()
-- []()
-- []()
+- [React Router v6](https://reactrouter.com/)
+- [nav: The Navigation Section element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+- [Conditional (ternary) operator in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   
 ### Using Assets in React
 
