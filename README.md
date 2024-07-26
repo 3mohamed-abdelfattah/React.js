@@ -29,12 +29,17 @@
 
 ## Module 2 =>
 
+### Dynamic events and how to handle them
+
 - [Handling Events](https://reactjs.org/docs/handling-events.html#gatsby-focus-wrapper)
 - [Supported Events](https://reactjs.org/docs/events.html#supported-events)
 - [SyntheticEvent](https://reactjs.org/docs/events.html#gatsby-focus-wrapper)
 - [How do I pass an event handler to a component?](https://reactjs.org/docs/faq-functions.html#how-do-i-pass-an-event-handler-like-onclick-to-a-component)
 - [JavaScript Expressions as Props](https://reactjs.org/docs/jsx-in-depth.html#javascript-expressions-as-props)
 - [JavaScript Expressions as Children](https://reactjs.org/docs/jsx-in-depth.html#javascript-expressions-as-children)
+
+### Data and Events
+
 - [React docs website URL which discusses the issue in depth](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [Data flows down](https://reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
 - [The Power Of Not Mutating Data](https://reactjs.org/docs/optimizing-performance.html#the-power-of-not-mutating-data)
@@ -55,6 +60,3 @@
 
 ---
 ![9233841_4120164](https://github.com/user-attachments/assets/6179e909-e580-4e3b-9c16-ffd1784c8773)
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
