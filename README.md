@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ad54df04-ca6a-42cd-9a8c-c15b4a499c13)
+
 ## Table of Contents
 
 - [Module 1](#module-1-)
@@ -58,5 +60,18 @@
 
 ## Module 3 =>
 
----
-![9233841_4120164](https://github.com/user-attachments/assets/6179e909-e580-4e3b-9c16-ffd1784c8773)
+### Linking and Routing
+
+- [React Router v6](https://reactrouter.com/)
+- [nav: The Navigation Section element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+- [Conditional (ternary) operator in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+  
+### Using Assets in React
+
+- [React Player Demo](https://cookpete.com/react-player/)
+- [webpack docs](https://webpack.js.org/guides/getting-started/)
+- [webpack asset management](https://webpack.js.org/guides/asset-management/)
+- [npm docs](https://docs.npmjs.com/)
+- [ReactPlayer on npm](https://www.npmjs.com/package/react-player)
+- [Video and audio content on the web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
