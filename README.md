@@ -69,10 +69,9 @@
   
 ### Using Assets in React
 
-- []()
-- []()
-- []()
-- []()
-
----
-![9233841_4120164](https://github.com/user-attachments/assets/6179e909-e580-4e3b-9c16-ffd1784c8773)
+- [React Player Demo](https://cookpete.com/react-player/)
+- [webpack docs](https://webpack.js.org/guides/getting-started/)
+- [webpack asset management](https://webpack.js.org/guides/asset-management/)
+- [npm docs](https://docs.npmjs.com/)
+- [ReactPlayer on npm](https://www.npmjs.com/package/react-player)
+- [Video and audio content on the web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
